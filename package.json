@@ -1,12 +1,12 @@
 {
   "name": "eufy-security-client",
-  "version": "3.1.1",
-  "description": "Client to comunicate with Eufy-Security devices",
+  "version": "3.1.2-beta",
+  "description": "ChayoteJarocho testing eufy-security-client",
   "author": {
-    "name": "bropat",
-    "email": "patrick.broetto@gmail.com"
+    "name": "ChayoteJarocho",
+    "email": "77412126+ChayoteJarocho@users.noreply.github.com"
   },
-  "homepage": "https://github.com/bropat/eufy-security-client",
+  "homepage": "https://github.com/ChayoteJarocho/eufy-security-client",
   "main": "build/index.js",
   "scripts": {
     "build:ts": "tsc -p tsconfig.build.json && npm run copy-proto-build",
